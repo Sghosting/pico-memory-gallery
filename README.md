@@ -2,6 +2,8 @@
 
 > PICO Space Program 2026 参赛作品
 > 赛道：**Spatial 空间应用创作 - Android Kotlin Compose**
+>
+> 仓库：<https://github.com/Sghosting/pico-memory-gallery>
 
 ## 一句话
 
