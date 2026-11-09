@@ -1,0 +1,29 @@
+# Android / Gradle
+*.iml
+.gradle/
+/local.properties
+/local.properties.bak
+/.idea/
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Keystore / 签名
+*.jks
+*.keystore
+
+# 日志与临时文件
+*.log
+*.tmp
+Thumbs.db
+
+# 编辑器
+.vscode/
+*.swp
